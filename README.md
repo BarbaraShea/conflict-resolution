@@ -1,5 +1,7 @@
 # conflict-resolution
 
-## My Machine
+## GitHUB
 
-This is my text on my machine
+This is text from GH
+
+
